@@ -1,8 +1,10 @@
 
+
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="[https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1350&q=80](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWTWD2esA1jKFqjgDQ_QyAG475nc2Ep5C3fw&s)" width="100%" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWTWD2esA1jKFqjgDQ_QyAG475nc2Ep5C3fw&s" width="100%" />
 </p>
+
 <h3 align="center">🚀 Full Stack Developer | ASP.NET Core | Flutter Developer</h3>
 
 ---
