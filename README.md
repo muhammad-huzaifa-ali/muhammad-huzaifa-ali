@@ -54,19 +54,11 @@
 
 ## 📊 GITHUB STATS
 
-<p align="center">
+![Stats](https://github-readme-stats.vercel.app/api?username=muhammad-huzaifa-ali&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhammad-huzaifa-ali&show_icons=true&theme=tokyonight" />
+![Streak](https://nirzak-streak-stats.vercel.app/?user=muhammad-huzaifa-ali&theme=tokyonight)
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-huzaifa-ali&theme=tokyonight" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-huzaifa-ali&layout=compact&theme=tokyonight" />
-
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-huzaifa-ali&layout=compact&theme=tokyonight)
 
 ---
 
