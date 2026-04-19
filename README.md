@@ -1,7 +1,7 @@
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="[https://github.com/MirzaAbdurRehman/MirzaAbdurRehman/blob/main/ai.png)](https://github.com/MirzaAbdurRehman/MirzaAbdurRehman/raw/main/ai.png)" />
+  <img src="https://www.vecteezy.com/free-photos/software-development" />
 </p>
 
 <h3 align="center">🚀 Full Stack Developer | ASP.NET Core | Flutter Developer</h3>
