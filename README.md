@@ -2,7 +2,7 @@
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWTWD2esA1jKFqjgDQ_QyAG475nc2Ep5C3fw&s" width="100%" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWTWD2esA1jKFqjgDQ_QyAG475nc2Ep5C3fw&s" width="70%" height="70%" />
 </p>
 
 <h3 align="center">🚀 Full Stack Developer | ASP.NET Core | Flutter Developer</h3>
