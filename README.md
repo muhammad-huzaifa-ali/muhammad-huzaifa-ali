@@ -1,7 +1,7 @@
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Huzaifa%20Ali&fontSize=40&fontColor=ffffff" />
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Huzaifa%20Ali&fontSize=40&fontColor=ffffff](https://github.com/MirzaAbdurRehman/MirzaAbdurRehman/blob/main/ai.png)" />
 </p>
 
 <h3 align="center">🚀 Full Stack Developer | ASP.NET Core | Flutter Developer</h3>
