@@ -64,8 +64,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-huzaifa-ali&theme=tokyonight" />
 </p>
 
-## 🚀 POPULAR REPOSITORIES
 
-<a href="https://github.com/muhammad-huzaifa-ali/Shop-Ease">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-huzaifa-ali&repo=Shop-Ease&theme=tokyonight" />
-  </a>
