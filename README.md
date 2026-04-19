@@ -6,6 +6,16 @@ I am a passionate Software Engineer focused on building scalable web application
 
 ---
 
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Huzaifa%20Ali&fontSize=40&fontColor=ffffff" />
+</p>
+
+<h3 align="center">🚀 Full Stack Developer | ASP.NET Core | Flutter Developer</h3>
+
+---
+
+
 ## 👨‍💻 ABOUT ME
 
 -  Currently learning Advanced .NET, REST APIs, Clean Architecture, Flutter & Dart  
@@ -18,7 +28,7 @@ I am a passionate Software Engineer focused on building scalable web application
 
 ## 🌐 CONNECT WITH ME
 
-<p align="left">
+<p align="center">
 
 <a href="https://instagram.com/huzaifa_sheikh___">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -38,23 +48,11 @@ I am a passionate Software Engineer focused on building scalable web application
 
 ## 🛠️ LANGUAGES & TOOLS
 
-### Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<p align="center">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,flutter,dart,js,html,css,bootstrap,git,github,sqlserver" />
 
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</p>
 
 ---
 
@@ -67,7 +65,13 @@ I am a passionate Software Engineer focused on building scalable web application
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-huzaifa-ali&layout=compact&theme=tokyonight)
 
 ---
-
 ## ⚡ MOTTO
 
-Code • Build • Improve • Repeat
+<p align="center">
+Code • Build • Improve • Repeat 🚀
+</p>
+
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
