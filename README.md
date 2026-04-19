@@ -1,7 +1,7 @@
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Mirza%20Abdur%20Rehman&fontSize=40&fontColor=ffffff" />
+  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1350&q=80" width="100%" />
 </p>
 <h3 align="center">🚀 Full Stack Developer | ASP.NET Core | Flutter Developer</h3>
 
