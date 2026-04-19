@@ -5,12 +5,12 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWTWD2esA1jKFqjgDQ_QyAG475nc2Ep5C3fw&s" width="70%" height="70%" />
 </p>
 
-<h3 align="center">🚀 Full Stack Developer | ASP.NET Core | Flutter Developer</h3>
+<h3 align="center"> Hi 👋, I'm Muhammad Huzaifa Ali  </h3>
 
 ---
 
 ## 👨‍💻 ABOUT ME
-
+<h3 align="center"> A passionate Software Student  </h3>
 <p align="center">
 
 -  I am a passionate Software Engineer focused on Full Stack Development  
