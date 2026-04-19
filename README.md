@@ -1,9 +1,8 @@
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/banner.gif" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Mirza%20Abdur%20Rehman&fontSize=40&fontColor=ffffff" />
 </p>
-
 <h3 align="center">🚀 Full Stack Developer | ASP.NET Core | Flutter Developer</h3>
 
 ---
