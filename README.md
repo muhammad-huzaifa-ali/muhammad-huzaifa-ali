@@ -1,10 +1,3 @@
-# Hi 👋, I'm Huzaifa Ali
-
-## 🚀 Full Stack Developer | ASP.NET Core | Flutter Developer
-
-I am a passionate Software Engineer focused on building scalable web applications and modern mobile apps.
-
----
 
 <!-- HEADER BANNER -->
 <p align="center">
@@ -15,14 +8,17 @@ I am a passionate Software Engineer focused on building scalable web application
 
 ---
 
-
 ## 👨‍💻 ABOUT ME
 
+<p align="center">
+
+-  I am a passionate Software Engineer focused on Full Stack Development  
 -  Currently learning Advanced .NET, REST APIs, Clean Architecture, Flutter & Dart  
--  Working on Full Stack Web Applications using ASP.NET Core & MVC  
--  Open to collaboration on E-commerce, ERP & SaaS projects  
+-  Open to collaborate on E-commerce, ERP & SaaS Projects  
 -  Ask me about C#, ASP.NET Core, SQL Server, Flutter, APIs  
--  Fun fact: I love building complete systems from scratch with clean UI & strong backend  
+-  I love building complete systems from scratch with clean UI & strong backend  
+
+</p>
 
 ---
 
@@ -50,7 +46,7 @@ I am a passionate Software Engineer focused on building scalable web application
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,flutter,dart,js,html,css,bootstrap,git,github,sqlserver" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,js,html,css,bootstrap,git,github,sqlserver" />
 
 </p>
 
@@ -58,13 +54,22 @@ I am a passionate Software Engineer focused on building scalable web application
 
 ## 📊 GITHUB STATS
 
-![Stats](https://github-readme-stats.vercel.app/api?username=muhammad-huzaifa-ali&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=muhammad-huzaifa-ali&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=muhammad-huzaifa-ali&show_icons=true&theme=tokyonight" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-huzaifa-ali&layout=compact&theme=tokyonight)
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-huzaifa-ali&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-huzaifa-ali&layout=compact&theme=tokyonight" />
+
+</p>
 
 ---
+
 ## ⚡ MOTTO
 
 <p align="center">
