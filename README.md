@@ -67,8 +67,8 @@
 ## 🚀 POPULAR REPOSITORIES
 
 <p align="center">
-  <a href="[https://github.com/muhammad-huzaifa-ali/Shop-Ease](https://github.com/muhammad-huzaifa-ali/Shop-Ease)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-huzaifa-ali&repo=your-repo-1&theme=tokyonight" />
+  <a href="https://github.com/muhammad-huzaifa-ali/Shop-Ease">
+    <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-huzaifa-ali&repo=your-repo-1&theme=tokyonight" /> -->
   </a>
 
   <a href="https://github.com/muhammad-huzaifa-ali/your-repo-2">
