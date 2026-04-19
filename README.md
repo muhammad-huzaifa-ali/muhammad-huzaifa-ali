@@ -10,7 +10,7 @@
 ---
 
 ## 👨‍💻 ABOUT ME
-<h3 align="center"> A passionate Software Student  </h3>
+   <h3 align="center"> Software Engineering Student | Passionate Developer </h3>
 <p align="center">
 
 -  I am a passionate Software Engineer focused on Full Stack Development  
