@@ -64,14 +64,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-huzaifa-ali&theme=tokyonight" />
 </p>
 
----
-## ⚡ MOTTO
+## 🚀 POPULAR REPOSITORIES
 
 <p align="center">
-Code • Build • Improve • Repeat 🚀
-</p>
+  <a href="https://github.com/muhammad-huzaifa-ali/your-repo-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-huzaifa-ali&repo=your-repo-1&theme=tokyonight" />
+  </a>
 
-<!-- FOOTER WAVE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <a href="https://github.com/muhammad-huzaifa-ali/your-repo-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-huzaifa-ali&repo=your-repo-2&theme=tokyonight" />
+  </a>
 </p>
